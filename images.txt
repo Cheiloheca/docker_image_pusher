@@ -1,3 +1,4 @@
 linuxserver/qbittorrent
 nginx
 liwangsheng/koodo-reader
+hectorqin/reader
